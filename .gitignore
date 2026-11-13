@@ -1,0 +1,4 @@
+dados_estacao_iag/venv/
+**/__pycache__/
+dados_estacao_iag/outputs/liveability_exposicao_perfil_duracao.csv
+dados_estacao_iag/outputs/liveability_faixa_historica.csv

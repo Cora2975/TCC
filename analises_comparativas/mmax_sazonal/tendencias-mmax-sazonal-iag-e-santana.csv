@@ -1,0 +1,17 @@
+estacao_id,estacao_meteorologica,perfil_id,perfil,estacao_do_ano,anos_completos,tendencia_met_por_decada,r_quadrado
+IAG,Estação IAG,adulto_jovem,Adulto jovem,Inverno,30,-0.024594463059681396,0.014748056171284163
+IAG,Estação IAG,adulto_jovem,Adulto jovem,Outono,30,-0.06654591939685264,0.06640536020813237
+IAG,Estação IAG,adulto_jovem,Adulto jovem,Primavera,30,-0.12081896691131955,0.1577906267825624
+IAG,Estação IAG,adulto_jovem,Adulto jovem,Verão,29,-0.004314621968357311,0.0002939499447245364
+IAG,Estação IAG,idosos,65 anos ou mais,Inverno,30,-0.022404670132882748,0.01912025861980937
+IAG,Estação IAG,idosos,65 anos ou mais,Outono,30,-0.053502798468301416,0.07023430455295177
+IAG,Estação IAG,idosos,65 anos ou mais,Primavera,30,-0.09921781975545899,0.17140376682223046
+IAG,Estação IAG,idosos,65 anos ou mais,Verão,29,-0.007357379071293491,0.0013519593053502588
+santana,Mirante de Santana (INMET A701),adulto_jovem,Adulto jovem,Inverno,19,-0.05415719935781042,0.04450181762516392
+santana,Mirante de Santana (INMET A701),adulto_jovem,Adulto jovem,Outono,19,-0.1314571250422532,0.13133302169139038
+santana,Mirante de Santana (INMET A701),adulto_jovem,Adulto jovem,Primavera,20,-0.09981319625528033,0.055983086049880226
+santana,Mirante de Santana (INMET A701),adulto_jovem,Adulto jovem,Verão,19,-0.07921983074714617,0.06439305579553178
+santana,Mirante de Santana (INMET A701),idosos,65 anos ou mais,Inverno,19,-0.055830347211655335,0.07077364269960273
+santana,Mirante de Santana (INMET A701),idosos,65 anos ou mais,Outono,19,-0.11636479401480004,0.16479729193087445
+santana,Mirante de Santana (INMET A701),idosos,65 anos ou mais,Primavera,20,-0.09467857005824737,0.07870176454545541
+santana,Mirante de Santana (INMET A701),idosos,65 anos ou mais,Verão,19,-0.07434284617590872,0.08515887208640904

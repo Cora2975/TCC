@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="880" viewBox="0 0 1440 880" role="img" aria-labelledby="titulo descricao">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#202124}.titulo{font-size:28px;font-weight:700}.subtitulo{font-size:16px;fill:#4b5563}.painel{font-size:20px;font-weight:700}.eixo{font-size:13px;fill:#374151}.nota{font-size:13px;fill:#4b5563}</style>
+<title id="titulo">Mmax médio sazonal e tendências</title>
+<desc id="descricao">Quatro painéis com as médias anuais de Mmax para verão, outono, inverno e primavera.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<text class="titulo" x="90" y="42">Mmax médio sazonal e tendência</text>
+<text class="subtitulo" x="90" y="70">Mirante de Santana (INMET A701) · 65 anos ou mais · Day-Outdoors / 3 h · horas locais entre 06–17 h</text>
+<text class="nota" x="90" y="94">Verão: dez–fev, atribuído ao ano de jan–fev; apenas estações com os três meses disponíveis.</text>
+<text class="painel" x="90" y="96">Verão</text>
+<line x1="90" y1="405.0" x2="710" y2="405.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="82" y="409.0">3.5</text>
+<line x1="90" y1="346.0" x2="710" y2="346.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="82" y="350.0">4.0</text>
+<line x1="90" y1="287.0" x2="710" y2="287.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="82" y="291.0">4.5</text>
+<line x1="90" y1="228.0" x2="710" y2="228.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="82" y="232.0">5.0</text>
+<line x1="90" y1="169.0" x2="710" y2="169.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="82" y="173.0">5.5</text>
+<line x1="90" y1="110.0" x2="710" y2="110.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="82" y="114.0">6.0</text>
+<line x1="220.5" y1="110" x2="220.5" y2="405" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="220.5" y="427">2010</text>
+<line x1="383.7" y1="110" x2="383.7" y2="405" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="383.7" y="427">2015</text>
+<line x1="546.8" y1="110" x2="546.8" y2="405" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="546.8" y="427">2020</text>
+<line x1="710.0" y1="110" x2="710.0" y2="405" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="710.0" y="427">2025</text>
+<line x1="90" y1="405" x2="710" y2="405" stroke="#4b5563"/>
+<line x1="90" y1="110" x2="90" y2="405" stroke="#4b5563"/>
+<path d="M 90.0 353.6 L 710.0 370.2" fill="none" stroke="#222" stroke-width="2.3"/>
+<path d="" fill="none"/>
+<circle cx="122.6" cy="359.5" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="155.3" cy="332.0" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="187.9" cy="336.0" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="220.5" cy="373.8" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="253.2" cy="379.5" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="285.8" cy="342.8" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="318.4" cy="367.0" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="351.1" cy="383.7" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="383.7" cy="374.8" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="416.3" cy="368.4" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="448.9" cy="365.5" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="481.6" cy="340.7" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="514.2" cy="371.7" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="546.8" cy="352.5" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="579.5" cy="367.1" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="612.1" cy="348.2" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="644.7" cy="351.1" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="677.4" cy="386.3" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<circle cx="710.0" cy="383.9" r="4.5" fill="#e45756" stroke="white" stroke-width="1"/>
+<text class="nota" x="90" y="450">Tendência: −0.07 MET/década · R²=0.09 · n=19 anos</text>
+<text class="painel" x="790" y="96">Outono</text>
+<line x1="790" y1="405.0" x2="1410" y2="405.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="782" y="409.0">3.5</text>
+<line x1="790" y1="346.0" x2="1410" y2="346.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="782" y="350.0">4.0</text>
+<line x1="790" y1="287.0" x2="1410" y2="287.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="782" y="291.0">4.5</text>
+<line x1="790" y1="228.0" x2="1410" y2="228.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="782" y="232.0">5.0</text>
+<line x1="790" y1="169.0" x2="1410" y2="169.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="782" y="173.0">5.5</text>
+<line x1="790" y1="110.0" x2="1410" y2="110.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="782" y="114.0">6.0</text>
+<line x1="920.5" y1="110" x2="920.5" y2="405" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="920.5" y="427">2010</text>
+<line x1="1083.7" y1="110" x2="1083.7" y2="405" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="1083.7" y="427">2015</text>
+<line x1="1246.8" y1="110" x2="1246.8" y2="405" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="1246.8" y="427">2020</text>
+<line x1="1410.0" y1="110" x2="1410.0" y2="405" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="1410.0" y="427">2025</text>
+<line x1="790" y1="405" x2="1410" y2="405" stroke="#4b5563"/>
+<line x1="790" y1="110" x2="790" y2="405" stroke="#4b5563"/>
+<path d="M 790.0 282.6 L 1410.0 308.6" fill="none" stroke="#222" stroke-width="2.3"/>
+<path d="" fill="none"/>
+<circle cx="822.6" cy="303.5" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="855.3" cy="270.5" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="887.9" cy="299.3" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="920.5" cy="286.7" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="953.2" cy="286.4" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="985.8" cy="286.9" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="1018.4" cy="283.2" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="1051.1" cy="295.0" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="1083.7" cy="288.4" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="1116.3" cy="308.5" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="1148.9" cy="287.2" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="1181.6" cy="307.2" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="1214.2" cy="324.8" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="1246.8" cy="262.2" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="1279.5" cy="286.8" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="1312.1" cy="295.1" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="1344.7" cy="300.1" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="1377.4" cy="348.0" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<circle cx="1410.0" cy="309.7" r="4.5" fill="#f2cf5b" stroke="white" stroke-width="1"/>
+<text class="nota" x="790" y="450">Tendência: −0.12 MET/década · R²=0.16 · n=19 anos</text>
+<text class="painel" x="90" y="506">Inverno</text>
+<line x1="90" y1="815.0" x2="710" y2="815.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="82" y="819.0">3.5</text>
+<line x1="90" y1="756.0" x2="710" y2="756.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="82" y="760.0">4.0</text>
+<line x1="90" y1="697.0" x2="710" y2="697.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="82" y="701.0">4.5</text>
+<line x1="90" y1="638.0" x2="710" y2="638.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="82" y="642.0">5.0</text>
+<line x1="90" y1="579.0" x2="710" y2="579.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="82" y="583.0">5.5</text>
+<line x1="90" y1="520.0" x2="710" y2="520.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="82" y="524.0">6.0</text>
+<line x1="220.5" y1="520" x2="220.5" y2="815" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="220.5" y="837">2010</text>
+<line x1="383.7" y1="520" x2="383.7" y2="815" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="383.7" y="837">2015</text>
+<line x1="546.8" y1="520" x2="546.8" y2="815" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="546.8" y="837">2020</text>
+<line x1="710.0" y1="520" x2="710.0" y2="815" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="710.0" y="837">2025</text>
+<line x1="90" y1="815" x2="710" y2="815" stroke="#4b5563"/>
+<line x1="90" y1="520" x2="90" y2="815" stroke="#4b5563"/>
+<path d="M 90.0 599.8 L 710.0 612.3" fill="none" stroke="#222" stroke-width="2.3"/>
+<path d="" fill="none"/>
+<circle cx="122.6" cy="602.5" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="155.3" cy="602.3" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="187.9" cy="588.1" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="220.5" cy="597.9" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="253.2" cy="602.2" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="285.8" cy="616.2" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="318.4" cy="604.1" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="351.1" cy="614.3" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="383.7" cy="627.6" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="416.3" cy="589.4" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="448.9" cy="589.7" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="481.6" cy="610.7" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="514.2" cy="608.6" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="546.8" cy="625.0" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="579.5" cy="590.1" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="612.1" cy="606.4" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="644.7" cy="625.9" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="677.4" cy="630.6" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<circle cx="710.0" cy="590.3" r="4.5" fill="#4c78a8" stroke="white" stroke-width="1"/>
+<text class="nota" x="90" y="860">Tendência: −0.06 MET/década · R²=0.07 · n=19 anos</text>
+<text class="painel" x="790" y="506">Primavera</text>
+<line x1="790" y1="815.0" x2="1410" y2="815.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="782" y="819.0">3.5</text>
+<line x1="790" y1="756.0" x2="1410" y2="756.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="782" y="760.0">4.0</text>
+<line x1="790" y1="697.0" x2="1410" y2="697.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="782" y="701.0">4.5</text>
+<line x1="790" y1="638.0" x2="1410" y2="638.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="782" y="642.0">5.0</text>
+<line x1="790" y1="579.0" x2="1410" y2="579.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="782" y="583.0">5.5</text>
+<line x1="790" y1="520.0" x2="1410" y2="520.0" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="end" x="782" y="524.0">6.0</text>
+<line x1="920.5" y1="520" x2="920.5" y2="815" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="920.5" y="837">2010</text>
+<line x1="1083.7" y1="520" x2="1083.7" y2="815" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="1083.7" y="837">2015</text>
+<line x1="1246.8" y1="520" x2="1246.8" y2="815" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="1246.8" y="837">2020</text>
+<line x1="1410.0" y1="520" x2="1410.0" y2="815" stroke="#e5e7eb" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="1410.0" y="837">2025</text>
+<line x1="790" y1="815" x2="1410" y2="815" stroke="#4b5563"/>
+<line x1="790" y1="520" x2="790" y2="815" stroke="#4b5563"/>
+<path d="M 790.0 684.5 L 1410.0 705.7" fill="none" stroke="#222" stroke-width="2.3"/>
+<path d="" fill="none"/>
+<circle cx="790.0" cy="690.6" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="822.6" cy="690.7" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="855.3" cy="672.3" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="887.9" cy="716.1" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="920.5" cy="671.1" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="953.2" cy="666.4" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="985.8" cy="702.0" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="1018.4" cy="677.2" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="1051.1" cy="699.9" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="1083.7" cy="725.9" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="1116.3" cy="676.8" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="1148.9" cy="696.9" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="1181.6" cy="688.1" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="1214.2" cy="710.7" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="1246.8" cy="715.4" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="1279.5" cy="687.4" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="1312.1" cy="660.4" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="1344.7" cy="751.0" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="1377.4" cy="727.3" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<circle cx="1410.0" cy="676.4" r="4.5" fill="#54a24b" stroke="white" stroke-width="1"/>
+<text class="nota" x="790" y="860">Tendência: −0.09 MET/década · R²=0.08 · n=20 anos</text>
+<text class="nota" x="90" y="850">Pontos: média de todas as horas diurnas válidas em cada estação do ano. Linha preta: regressão linear das médias sazonais.</text>
+</svg>

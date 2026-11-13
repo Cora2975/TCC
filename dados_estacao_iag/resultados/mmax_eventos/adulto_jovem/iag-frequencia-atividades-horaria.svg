@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="590" viewBox="0 0 1100 590" role="img" aria-labelledby="titulo descricao">
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#202124}.titulo{font-size:27px;font-weight:700}.subtitulo{font-size:16px;fill:#4b5563}.eixo{font-size:14px;fill:#374151}.categoria{font-size:16px}.valor{font-size:16px;font-weight:700}</style>
+<title id="titulo">Frequência de horas por categoria de atividade sustentável</title>
+<desc id="descricao">Contagem das horas em eventos de Tmax acima do percentil 95, classificadas pela atividade mais intensa sustentável conforme Mmax.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<text class="titulo" x="330" y="42">Frequência por atividade máxima sustentável</text>
+<text class="subtitulo" x="330" y="68">Estação IAG · Horas dos 48 eventos de Tmax diária &gt; P95 · adulto jovem (1995–2024)</text>
+<line x1="330.0" y1="110" x2="330.0" y2="515" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="330.0" y="540">0</text>
+<line x1="429.3" y1="110" x2="429.3" y2="515" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="429.3" y="540">200</text>
+<line x1="528.6" y1="110" x2="528.6" y2="515" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="528.6" y="540">400</text>
+<line x1="627.9" y1="110" x2="627.9" y2="515" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="627.9" y="540">600</text>
+<line x1="727.1" y1="110" x2="727.1" y2="515" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="727.1" y="540">800</text>
+<line x1="826.4" y1="110" x2="826.4" y2="515" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="826.4" y="540">1000</text>
+<line x1="925.7" y1="110" x2="925.7" y2="515" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="925.7" y="540">1200</text>
+<line x1="1025.0" y1="110" x2="1025.0" y2="515" stroke="#d1d5db" stroke-width="1"/>
+<text class="eixo" text-anchor="middle" x="1025.0" y="540">1400</text>
+<line x1="330" y1="515" x2="1025" y2="515" stroke="#4b5563" stroke-width="1.2"/>
+<text class="eixo" text-anchor="middle" x="677.5" y="572">Número de horas</text>
+<text class="categoria" text-anchor="end" x="312" y="136.9">Repouso ou estudo</text>
+<text class="eixo" text-anchor="end" x="312" y="154.9">1,5 MET a &lt; 2,3 MET</text>
+<rect x="330" y="122.9" width="0.0" height="32" fill="#4c78a8"/>
+<text class="valor" x="340.0" y="144.9">0</text>
+<text class="categoria" text-anchor="end" x="312" y="194.8">Caminhada lenta</text>
+<text class="eixo" text-anchor="end" x="312" y="212.8">2,3 MET a &lt; 3,3 MET</text>
+<rect x="330" y="180.8" width="8.4" height="32" fill="#72b7b2"/>
+<text class="valor" x="348.4" y="202.8">17</text>
+<text class="categoria" text-anchor="end" x="312" y="252.6">Limpeza doméstica</text>
+<text class="eixo" text-anchor="end" x="312" y="270.6">3,3 MET a &lt; 4,0 MET</text>
+<rect x="330" y="238.6" width="238.8" height="32" fill="#54a24b"/>
+<text class="valor" x="578.8" y="260.6">481</text>
+<text class="categoria" text-anchor="end" x="312" y="310.5">Subir escadas devagar</text>
+<text class="eixo" text-anchor="end" x="312" y="328.5">4,0 MET a &lt; 5,0 MET</text>
+<rect x="330" y="296.5" width="620.5" height="32" fill="#eeca3b"/>
+<text class="valor" x="960.5" y="318.5">1250</text>
+<text class="categoria" text-anchor="end" x="312" y="368.4">Dança</text>
+<text class="eixo" text-anchor="end" x="312" y="386.4">5,0 MET a &lt; 6,0 MET</text>
+<rect x="330" y="354.4" width="252.2" height="32" fill="#f58518"/>
+<text class="valor" x="592.2" y="376.4">508</text>
+<text class="categoria" text-anchor="end" x="312" y="426.2">Corrida leve (≈ 6,4 km/h)</text>
+<text class="eixo" text-anchor="end" x="312" y="444.2">6,0 MET a &lt; 7,5 MET</text>
+<rect x="330" y="412.2" width="52.1" height="32" fill="#e45756"/>
+<text class="valor" x="392.1" y="434.2">105</text>
+<text class="categoria" text-anchor="end" x="312" y="484.1">Carregar carga pesada</text>
+<text class="eixo" text-anchor="end" x="312" y="502.1">≥ 7,5 MET</text>
+<rect x="330" y="470.1" width="1.5" height="32" fill="#b279a2"/>
+<text class="valor" x="341.5" y="492.1">3</text>
+<text class="subtitulo" x="330" y="94">Cada hora entra apenas na categoria mais intensa cujo limiar em MET é ≤ Mmax.</text>
+</svg>

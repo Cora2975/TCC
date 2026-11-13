@@ -1,0 +1,5 @@
+estacao_id,perfil_id,horas_sem_cobertura_modelo
+IAG,adulto_jovem,0
+IAG,idosos,0
+santana,adulto_jovem,1
+santana,idosos,1

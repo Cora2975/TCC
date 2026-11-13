@@ -1,0 +1,13 @@
+exposure,profile_id,duration_h,observacoes_avaliadas,cobertura_da_grade_percent,limite_sobrevivencia_ultrapassado_percent,limite_habitabilidade_ultrapassado_percent,mmax_abaixo_limiar_percent
+Night-Indoors,Young_adult,1,124884,100.0,0.0,0.001,0.001
+Night-Indoors,Young_adult,3,124884,100.0,0.0,0.001,0.001
+Night-Indoors,Young_adult,6,124884,100.0,0.001,0.001,0.001
+Night-Indoors,65_over,1,124884,100.0,0.0,0.001,0.001
+Night-Indoors,65_over,3,124884,100.0,0.001,0.001,0.001
+Night-Indoors,65_over,6,124884,100.0,0.001,0.001,0.001
+Day-Outdoors,Young_adult,1,129828,100.0,0.0,0.0,0.0
+Day-Outdoors,Young_adult,3,129828,100.0,0.0,0.0,0.0
+Day-Outdoors,Young_adult,6,129828,100.0,0.0,0.0,0.0
+Day-Outdoors,65_over,1,129828,100.0,0.0,0.0,0.206
+Day-Outdoors,65_over,3,129828,100.0,0.0,0.0,0.206
+Day-Outdoors,65_over,6,129828,100.0,0.0,0.0,0.206
